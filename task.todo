@@ -1,0 +1,9 @@
+✔ Setup node.js project @done(22-11-26 17:55)
+☐ Setup three.js locally
+Setup a 3D scene in three.js
+Add animated character to three.js
+Add contols and movment to the character
+Add mouse camera change to the character
+Add water ball shooting mechanism in three.js
+Add parabolic path to the ball
+Add socket.io to the project
